@@ -12,9 +12,7 @@ In the routine practice, MPS can be used to fill the gaps in spatial or temporal
 
 The course is organized in two parts: the first one is a short introduction on the theory at the base of stochastic simulation and interpolation. The second and main part is dedicated to practical cases related to time series modeling and remote sensing data. 
 
-This repository contains the powerpoint presentation of the first part, and a Colab notebook for part 2. The colab notebook can be accessed directly at [this link](https://colab.research.google.com/github/GAIA-UNIL/Short-course-MPS/blob/main/MPS_SC_with_QS_Online.ipynb) :
-
-https://colab.research.google.com/github/GAIA-UNIL/Short-course-MPS/blob/main/MPS_SC_with_QS_Online.ipynb
+This repository contains the powerpoint presentation of the first part, and a Colab notebook for part 2. The colab notebook can be accessed directly at <a href="https://colab.research.google.com/github/GAIA-UNIL/Short-course-MPS/blob/main/MPS_SC_with_QS_Online.ipynb" target="_blank">this link</a>.
 
 References:
 
