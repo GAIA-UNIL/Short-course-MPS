@@ -12,7 +12,7 @@ In the routine practice, MPS can be used to fill the gaps in spatial or temporal
 
 The course will be organized in two parts: the first one is a short introduction on the theory underlying stochastic simulation and interpolation. The second and main part is dedicated to practical cases related to time series modeling and remote sensing data. The QS algorithm will be used [4], available here: https://gaia-unil.github.io/G2S/. For simplicity, the workshop will be held online using the free resource from Google Collaboratory, for which you will only need a Google account (it can be done even with non-google email addresses, https://accounts.google.com/).
 
-This repository contains the powerpoint presentation of the first part, and a Colab notebook for part 2. The colab notebook can be accessed directly using the link above.
+This repository contains the powerpoint presentation of the first part, and a Colab notebook for part 2. The colab notebook can be accessed opening the file MPS_SC_with_QS_Online.ipynb in Google Colab.
 
 References:
 
