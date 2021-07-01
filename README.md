@@ -14,6 +14,8 @@ The course will be organized in two parts: the first one is a short introduction
 
 This repository contains the powerpoint presentation of the first part, and a Colab notebook for part 2. The colab notebook can be accessed opening the file MPS_SC_with_QS_Online.ipynb in Google Colab.
 
+A video of the workshop is available here: https://youtu.be/u5NWi0-lVFw
+
 References:
 
 [1] dell’Arciprete, D., Bersezio, R., Felletti, F. et al., Comparison of three geostatistical methods for hydrofacies simulation: a test on alluvial sediments, Hydrogeol Journal (2012) 20: 299. https://doi.org/10.1007/s10040-011-0808-0
