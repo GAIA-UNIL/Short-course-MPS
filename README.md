@@ -14,7 +14,9 @@ The course will be organized in two parts: the first one is a short introduction
 
 This repository contains the powerpoint presentation of the first part, and a Colab notebook for part 2. The colab notebook can be accessed opening the file MPS_SC_with_QS_Online.ipynb in Google Colab.
 
-A video of the workshop is available here: https://youtu.be/u5NWi0-lVFw
+A video of the workshop is available here: 
+Part 1: https://youtu.be/llZhNTe9VrQ
+Part 2: https://youtu.be/u5NWi0-lVFw
 
 References:
 
